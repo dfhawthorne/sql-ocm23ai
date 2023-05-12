@@ -1,2 +1,2 @@
-# sql-ocm21c
-SQL Scripts used in studying for a possible OCM 21C Exam
+# sql-ocm23c
+SQL Scripts used in studying for a possible OCM 23C Exam
